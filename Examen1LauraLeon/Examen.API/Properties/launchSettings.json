@@ -2,10 +2,7 @@
   "profiles": {
     "Examen.API": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7138",
-      "environmentVariables": {
-        "cadenaconexion": "DefaultEndpointsProtocol=https;AccountName=examenlauraleon;AccountKey=Zuagw2WP9AcCnN3c2phb0DpX0OU4Ym5MtPL3wIZOvdw4SeBFb+LnP75EM/24AY6z5IEixlyzwNCN+AStdBjo3Q==;EndpointSuffix=core.windows.net"
-      }
+      "commandLineArgs": "--port 7138"
     }
   }
 }
